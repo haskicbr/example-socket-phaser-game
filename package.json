@@ -1,0 +1,22 @@
+{
+  "name": "test-game",
+  "version": "0.0.1",
+  "description": "phaser example game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "phaser",
+    "example",
+    "game"
+  ],
+  "author": "Haskicbr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "socketio": "^1.0.0"
+  }
+}
